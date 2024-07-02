@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+PyPDF2
+langchain
+docx2txt
+streamlit-lottie
